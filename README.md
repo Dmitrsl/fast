@@ -1,0 +1,2 @@
+# fast
+fastai cuorse
